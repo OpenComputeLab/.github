@@ -1,3 +1,7 @@
+<div align=center>
+<img src="recourse/deepLink_logo.png">
+</div>
+
 # Guidance
 
 hi，欢迎来到OpenComputeLab的github空间～ 
