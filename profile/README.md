@@ -1,5 +1,5 @@
 <div align=center>
-<img src="recourse/deepLink_logo.png">
+<img src="../resource/deepLink_logo.png">
 </div>
 
 # Guidance
